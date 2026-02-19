@@ -41,3 +41,5 @@ Stage Funnel by Revenue
 Number of Meetings by Account Executive
 
 Top Open Opportunities
+
+<img width="1311" height="735" alt="Branch Dashboard power BI " src="https://github.com/user-attachments/assets/aec39d0c-6647-43ac-b699-797468816e6f" />
